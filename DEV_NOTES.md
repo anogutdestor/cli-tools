@@ -12,3 +12,7 @@ Personal development log — notes, findings, and ongoing work.
 - Ran linter, applied auto-fixes
 - Improved log message formatting
 - Reorganised test fixtures
+
+## 2026-03-30
+- Reviewed codebase, identified areas for improvement
+- Improved log message formatting
